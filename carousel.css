@@ -1,0 +1,13 @@
+#carousel img
+{
+    max-width: 70%;
+    max-height: 70%;
+    height: auto;
+    width: auto;
+    margin: auto;
+}
+
+.carousel-control-prev, .carousel-control-next
+{
+    width: 5%;
+}
